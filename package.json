@@ -1,7 +1,8 @@
 {
-  "name": "react-example",
+  "name": "law-office-management",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "نظام إدارة المكتب القانوني ومتابعة جلسات المحاكم ورول القضايا والأحكام",
   "type": "module",
   "scripts": {
     "dev": "tsx server.ts",
